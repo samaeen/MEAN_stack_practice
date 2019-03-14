@@ -1,0 +1,21 @@
+{
+  "name": "mean-auth",
+  "version": "1.0.0",
+  "description": "mean authentication app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "^1.18.2",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Shoummo",
+  "license": "ISC"
+}
